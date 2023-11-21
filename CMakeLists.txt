@@ -9,4 +9,5 @@ find_package(Eigen3 REQUIRED)
 include_directories(${EIGEN3_INCLUDE_DIR})
 
 # Add executable
-add_executable(mahalanobis mahalanobis_dist.cpp) # Replace main.cpp with the name of your source file
+add_executable(mahalanobis mahalanobis_dist.cpp) 
+add_executable(kf kf.cpp) 
