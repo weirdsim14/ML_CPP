@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sim/Practice/CPP/ML/build",
+  "command": "/usr/bin/g++ -I/usr/include/eigen3 -g -std=gnu++11 -o CMakeFiles/mahalanobis.dir/mahalanobis_dist.cpp.o -c /home/sim/Practice/CPP/ML/mahalanobis_dist.cpp",
+  "file": "/home/sim/Practice/CPP/ML/mahalanobis_dist.cpp",
+  "output": "CMakeFiles/mahalanobis.dir/mahalanobis_dist.cpp.o"
+}
+]
